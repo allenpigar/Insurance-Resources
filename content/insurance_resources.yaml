@@ -1,0 +1,31 @@
+- id: "/insurance_resources"
+  web:
+    metaDescription: "Get practical guides that help make your home safer and help you prepare for the worst-case scenario."
+    metaTitle: "Insurance resources | Kin Insurance"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "insurance_resources"
+    path: "/insurance_resources/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Insurance resources and homeownership guides"
+    sub_header: "Find out how to make your home safer, get tips for comparing insurance, and more."
+    featured_image: null
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: ""
